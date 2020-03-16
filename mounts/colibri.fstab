@@ -1,0 +1,5 @@
+
+overlay /data/BOTTINO/DATI_AUTISMO/ABIDEII_ONRC2 overlay noauto,x-systemd.automount,relatime,lowerdir=/data/RMN/postprocessing-datasets/ABIDEII_ONRC2:/data/RMN2/datasets/ABIDEII_ONRC2 0 0 
+
+overlay /data/BOTTINO/DATI_SCHIZOFRENIA overlay noauto,x-systemd.automount,ro,relatime,lowerdir=/data/RMN/postprocessing-datasets/COBRE:/data/RMN2/datasets/COBRE 0 0
+
