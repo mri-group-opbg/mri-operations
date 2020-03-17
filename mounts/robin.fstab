@@ -1,0 +1,5 @@
+
+overlay /data/comparison-schizofrenia/mount overlay auto,relatime,lowerdir=/data/RMN/postprocessing-datasets/COBRE:/data/RMN2/datasets/COBRE:/data/RMN2/datasets/fsaverage,upperdir=/data/comparison-schizofrenia/upperdir,workdir=/data/comparison-schizofrenia/workdir 0 0
+
+
+
